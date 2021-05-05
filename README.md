@@ -30,7 +30,7 @@ The environment is configured using Google colab
 
 [Food101_Overfit](https://colab.research.google.com/drive/182Ljva9-keWofv6nelODcx5qlcJ_Vm-S?usp=sharing)
 
-[Food101](https://colab.research.google.com/drive/13V5XpajQbJkjWUbCUOXCqhpbs5tls8ip?usp=sharing)
+[Food101](https://colab.research.google.com/drive/1PpyLU6aVUKLcE0EOeXfY6cq9dmcmDpeG?usp=sharing)
 
 [Yelp Dataset](https://colab.research.google.com/drive/1gv_KvDi-izgcU53RuVU1YuvLre-x9ZNt?usp=sharing)
 

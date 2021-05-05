@@ -16,6 +16,12 @@ If the critical word appears more than 1 times, the food will be falled into mul
 The original label came from another problem(human emotional classification).
 However, that model is not a good one for our question due to overfit. So we have took way to optimze the model.
 
+
+
+## Original model
+
+![](./pics/model1.png)
+
 # Environment
 
 The environment is configured using Google colab

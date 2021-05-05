@@ -22,9 +22,16 @@ However, that model is not a good one for our question due to overfit. So we hav
 
 ![](./pics/model1.png)
 
-## One way to avoid overfitting 
+## Another model
  
+ 
+ ![](./pics/model3.png)
+
+ 
+## State of art
 Fine tune Using Incerception v3
+
+
 
 ## Google Inception v3
 
@@ -39,7 +46,10 @@ The environment is configured using Google colab
 
 [Food101_Overfit](https://colab.research.google.com/drive/182Ljva9-keWofv6nelODcx5qlcJ_Vm-S?usp=sharing)
 
-[Food101](https://colab.research.google.com/drive/1PpyLU6aVUKLcE0EOeXfY6cq9dmcmDpeG?usp=sharing)
+[Food101_Another_model](https://colab.research.google.com/drive/105RJhRUbqMnUIVszIBB_3e3AUgcYfQ4E?usp=sharing)
+
+[Food101_Inception](https://colab.research.google.com/drive/1PpyLU6aVUKLcE0EOeXfY6cq9dmcmDpeG?usp=sharing)
+
 
 [Yelp Dataset](https://colab.research.google.com/drive/1gv_KvDi-izgcU53RuVU1YuvLre-x9ZNt?usp=sharing)
 

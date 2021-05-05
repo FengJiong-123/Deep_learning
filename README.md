@@ -11,6 +11,11 @@ In other words, if the comments have a matching food crictical word, we will use
 
 If the critical word appears more than 1 times, the food will be falled into multiple category.
 
+# Model 
+
+The original label came from another problem(human emotional classification).
+However, that model is not a good one for our question due to overfit. So we have took way to optimze the model.
+
 # Environment
 
 The environment is configured using Google colab

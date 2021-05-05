@@ -28,3 +28,8 @@ The environment is configured using Google colab
 
 
 [Yelp Dataset](https://colab.research.google.com/drive/1gv_KvDi-izgcU53RuVU1YuvLre-x9ZNt?usp=sharing)
+
+
+# Interesting part
+1. Compare the dataset we generated manually with the 'good' dataset the is already lablled
+2. Compare the model for different CV problem, and took ways to reduce overfitting.

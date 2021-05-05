@@ -4,7 +4,14 @@
 1. Food 101
 2. Yelp Dataset
 
-## Environment
+## Issues in the dataset
+One existing issue in the dataset is that in yelp, there is no cleaned data. The solution we came up is to use simply NLP to classify the food.
+
+In other words, if the comments have a matching food crictical word, we will use this to label the food.
+
+If the critical word appears more than 1 times, the food will be falled into multiple category.
+
+# Environment
 
 The environment is configured using Google colab
 

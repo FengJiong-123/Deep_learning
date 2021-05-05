@@ -26,6 +26,11 @@ However, that model is not a good one for our question due to overfit. So we hav
  
 Fine tune Using Incerception v3
 
+## Google Inception v3
+
+![](./pics/model2.png)
+
+
 # Environment
 
 The environment is configured using Google colab

@@ -28,7 +28,7 @@ The environment is configured using Google colab
 
 [Base Code](https://colab.research.google.com/drive/1xIIr7XbOJLIeu_lJv2ZynoRxh4RVsS3S#scrollTo=2ZKL6nKYq0fp)
 
-[Food101_Overfit](https://colab.research.google.com/drive/13V5XpajQbJkjWUbCUOXCqhpbs5tls8ip?usp=sharing)
+[Food101_Overfit](https://colab.research.google.com/drive/182Ljva9-keWofv6nelODcx5qlcJ_Vm-S?usp=sharing)
 
 [Food101](https://colab.research.google.com/drive/13V5XpajQbJkjWUbCUOXCqhpbs5tls8ip?usp=sharing)
 

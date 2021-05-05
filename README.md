@@ -23,8 +23,8 @@ However, that model is not a good one for our question due to overfit. So we hav
 ![](./pics/model1.png)
 
 ## One way to avoid overfitting 
-
-Fine tune
+ 
+Fine tune Using Incerception v3
 
 # Environment
 

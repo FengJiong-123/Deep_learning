@@ -24,8 +24,7 @@ However, that model is not a good one for our question due to overfit. So we hav
 
 ## Another model
  
- 
- ![](./pics/model3.png)
+![](./pics/model3.png)
 
  
 ## State of art
